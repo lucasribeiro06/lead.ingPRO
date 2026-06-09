@@ -1,0 +1,4 @@
+streamlit>=1.58
+google-generativeai>=0.8
+requests>=2.34
+pandas>=3.0
